@@ -1,0 +1,11 @@
+.logs {
+  background-color: #eae2b7;
+  /* background-color: #bfa; */
+
+  padding: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}

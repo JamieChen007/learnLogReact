@@ -1,0 +1,34 @@
+.logsForm {
+  margin: 10px 0;
+  background-color: #eae2b7;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.logsForm div {
+  display: flex;
+  padding: 10px;
+}
+
+.logsForm input {
+  flex: auto;
+  font-size: 20px;
+  margin: 0 15px;
+}
+
+.logsForm button {
+  margin: auto;
+  height: 50px;
+  width: 100px;
+  cursor: pointer;
+  border: none;
+  background-color: #194b49;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.logsForm button:hover {
+  background-color: #d62828;
+  transition: 0.5s;
+}
